@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NoTeCaigas</string>
+    <string name="title_no_te_caigas">NO TE CAIGAS</string>
+    <string name="btn_jugar">JUGAR</string>
+    <string name="btn_ver_ranking">VER RANKING</string>
+    <string name="btn_instrucciones">INSTRUCCIONES</string>
+
+    <string name="time_format">Tiempo: %ds</string>
+    <string name="ranking_title">RANKING - MEJORES TIEMPOS</string>
+    <string name="btn_volver_menu">Volver al Menú</string>
+
+    <string name="game_over_title">¡Fin del juego!</string>
+    <string name="game_over_message">¡Has caído en un agujero!\nTiempo: %d segundos.</string>
+    <string name="btn_reintentar">Reintentar</string>
+    <string name="menu_principal">Menú Principal</string>
+
+    <string name="win_title">¡Enhorabuena, has ganado!</string>
+    <string name="win_message">Has llegado a la meta en %d segundos.\nIntroduce tu nombre para el ranking:</string>
+    <string name="hint_player_name">Introduce tu nombre</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="anonymous">Anónimo</string>
+
+    <string name="instructions_title">Instrucciones</string>
+    <string name="instructions_text">1. Coloca el móvil en horizontal con la pantalla hacia arriba.\n\n2. Inclina el dispositivo para guiar la bola roja desde la salida hasta la meta verde.\n\n3. ¡Cuidado! Si la bola cae por cualquier agujero negro, el juego terminará.\n\n4. Al llegar a la meta, introduce tu nombre para guardar tu tiempo en el ranking SQLite.</string>
+    <string name="btn_entendido">Entendido</string>
+    <string name="date_format">Fecha: %s</string>
+    <string name="ranking_item_format">%1$d. %2$s - %3$ds</string>
+</resources>
